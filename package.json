@@ -9,7 +9,7 @@
   },
     "packageManager": "pnpm@8.10.2",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "app-ui": "pnpm -F \"app-ui\""
   },
   "keywords": [],
   "author": "",
