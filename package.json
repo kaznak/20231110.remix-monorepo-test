@@ -7,11 +7,14 @@
     "pnpm": "8.10.2",
     "npm": "please_use_pnpm_instead"
   },
-    "packageManager": "pnpm@8.10.2",
+  "packageManager": "pnpm@8.10.2",
   "scripts": {
     "app-ui": "pnpm -F \"app-ui\""
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
 }
