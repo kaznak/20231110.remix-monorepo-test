@@ -9,6 +9,7 @@
   },
   "packageManager": "pnpm@8.10.2",
   "scripts": {
+    "format": "prettier -u -w . ",
     "app-ui": "pnpm -F \"app-ui\""
   },
   "keywords": [],
