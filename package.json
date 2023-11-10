@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "pnpm": "8.10.2",
+    "npm": "please_use_pnpm_instead"
+  },
+    "packageManager": "pnpm@8.10.2",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
