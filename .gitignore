@@ -1,1 +1,5 @@
 node_modules/
+packages/app-ui/.cache
+packages/app-ui/.env
+packages/app-ui/build
+packages/app-ui/public/build
